@@ -44,7 +44,7 @@ Antes de rodar o projeto, certifique-se de ter o seguinte instalado:
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone <url-do-repositório>
+   git clone <https://github.com/yanfurlan/SQLiteWatch>
    ```
 
 2. Instale as dependências necessárias:
