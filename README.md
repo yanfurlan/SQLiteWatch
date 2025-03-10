@@ -75,7 +75,7 @@ Antes de rodar o projeto, certifique-se de ter o seguinte instalado:
 ## Estrutura do Projeto
 
 ```
-/monitoring
+/SQLiteWatch
     /monitoring.db           # Banco de dados SQLite
     app.py                   # Código principal do Streamlit
     requirements.txt         # Arquivo de dependências
