@@ -6,7 +6,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 # Caminho do diretório e do banco de dados
-DB_FOLDER = r"C:\Users\MASTER\Desktop\monitoring"
+DB_FOLDER = r"PASTA"
 DB_PATH = os.path.join(DB_FOLDER, "monitoring.db")
 
 # Criar a pasta "monitoring" caso não exista
